@@ -5,7 +5,5 @@
 Результат выполнения этогого шага показан на рисунке ниже.
 
 ![Карта сайта youtravel me](https://github.com/tsf-soft/SoftwareQA/assets/6228605/a9130311-1c92-4bbb-8547-e63320ddc9b5)
-
-Карта сайта youtravel.me
-
+Рис-1. "Карта сайта youtravel.me"
 
