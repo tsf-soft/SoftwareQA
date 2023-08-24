@@ -42,3 +42,10 @@ IF ([Куда] in {"Турция", "Тайланд"} AND [Тип тура] in {"
 ![Результат PICT на консоли](https://github.com/tsf-soft/SoftwareQA/assets/6228605/99633a9c-1542-40d4-a21a-fb420012a25b "Результат полученный инструментом PICT в csv-файле") <br>
 Рис.1-2. "Результат работы инструмента PICT - выведенный в консоль терминала Windows"
 
+### 2. POT
+
+Для проведения тестирования с использованием этого инструмента на сайте инструмента введён такой набор входных данных:
+
+![2-1 InpData(Pairwise Online Tool) (pdf io)](https://github.com/tsf-soft/SoftwareQA/assets/6228605/919088bc-ea6d-4fad-8938-44db9a0d7627)
+[2-1.InpData(Pairwise Online Tool).pdf](https://github.com/tsf-soft/SoftwareQA/files/12429022/2-1.InpData.Pairwise.Online.Tool.pdf)
+
